@@ -1,0 +1,3 @@
+STRING s = "123abckalsd";
+#INCLUDE <STRING.H>
+#include "Tokenizer.h"

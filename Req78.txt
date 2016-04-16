@@ -1,0 +1,33 @@
+STRING s = "123abckalsd";
+#INCLUDE <string.h>
+#include "Tokenizer.h"
+for(int i=0;i<5;i++)
+{
+string d ="abcdefghiger";
+if(a==3)
+string f =c;
+}
+namespace TestExecName
+{
+	class TestExec
+	{
+	public:abc
+		TestExec();
+		~TestExec();
+		void DisplayInputStream(std::string);
+		void Req4();
+		void Req7AndReq8();
+	private:
+	};
+}
+for(;;){
+int g =0;
+}
+// Tokenizer.cpp - read words from a std::stream 
+/*
+Helper code that does not attempt to handle all tokenizing
+special cases like escaped characters.
+*/
+int c =0;
+int d=0;
+c = c++ + d--;
