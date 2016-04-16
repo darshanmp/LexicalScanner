@@ -1,0 +1,14 @@
+string s = "123abckalsd";
+34hjnkmer123
+Hello, Welcome!
+// Tokenizer.cpp - read words from a std::stream 
+/*
+Helper code that does not attempt to handle all tokenizing
+special cases like escaped characters.
+*/
+"Test for Quoted Strings"
+"\"Test for Quoted other case Strings \""
+here are some punctuators .as,
+some more stuff (abc{def}ghi[jkl]mno
+int c = 0;
+c++ + d--;

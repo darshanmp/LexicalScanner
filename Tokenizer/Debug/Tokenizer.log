@@ -1,0 +1,3 @@
+﻿  Tokenizer.cpp
+f:\ood\project1\tokenizer\tokenizer.cpp(171): warning C4715: 'Scanner::ConsumeState::nextState1': not all control paths return a value
+  Tokenizer.vcxproj -> F:\OOD\Project1\Debug\Tokenizer.lib
